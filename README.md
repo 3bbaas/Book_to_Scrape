@@ -158,21 +158,7 @@ The combined data file contains:
 
 When running the scraper, you will see output similar to:
 
-```
-[!] Starting book scraper...
-✔ Browser launched successfully
-✔ Page 1: Found 20 books
-✔ Fetched details for: A Light in the Attic
-✔ Fetched details for: Tipping the Velvet
-✔ Fetched details for: Soumission
-...
-[✔] Successfully scraped 400 books from 20 pages
-✔ Results saved to data\books_2025-06-19T01-45-37.json
-✔ Browser closed
-[%] Total execution time: 186.42 seconds
-```
-
-[![Watch the demo](https://raw.githubusercontent.com/3bbaas/Book_to_Scrape/main/assets/thumbnail.png)](https://raw.githubusercontent.com/3bbaas/Book_to_Scrape/main/assets/demo.mp4)
+https://github.com/user-attachments/assets/0efd1d0a-ed7b-4770-999c-08bec374e34e
 
 ## Notes
 
