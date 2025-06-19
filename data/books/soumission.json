@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg",
+  "title": "Soumission",
+  "price": "£50.10",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "20",
+    "availability": "In stock (20 available)"
+  },
+  "rate": "One",
+  "category": "Fiction",
+  "productInfo": {
+    "UPC": "6957f44c3847a760",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£50.10",
+    "Price (incl. tax)": "£50.10",
+    "Tax": "£0.00",
+    "Availability": "In stock (20 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Dans une France assez proche de la nôtre, un homme s’engage dans la carrière universitaire. Peu motivé par l’enseignement, il s’attend à une vie ennuyeuse mais calme, protégée des grands drames historiques. Cependant les forces en jeu dans le pays ont fissuré le système politique jusqu’à provoquer son effondrement. Cette implosion sans soubresauts, sans vraie révolution, s Dans une France assez proche de la nôtre, un homme s’engage dans la carrière universitaire. Peu motivé par l’enseignement, il s’attend à une vie ennuyeuse mais calme, protégée des grands drames historiques. Cependant les forces en jeu dans le pays ont fissuré le système politique jusqu’à provoquer son effondrement. Cette implosion sans soubresauts, sans vraie révolution, se développe comme un mauvais rêve.Le talent de l’auteur, sa force visionnaire nous entraînent sur un terrain ambigu et glissant ; son regard sur notre civilisation vieillissante fait coexister dans ce roman les intuitions poétiques, les effets comiques, une mélancolie fataliste.Ce livre est une saisissante fable politique et morale. ...more",
+  "scrapedAt": "2025-06-19T02:55:52.754Z"
+}

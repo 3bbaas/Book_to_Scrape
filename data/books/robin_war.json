@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/08/e3/08e3fff11713d162620c920a2574e149.jpg",
+  "title": "Robin War",
+  "price": "£47.82",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Three",
+  "category": "Sequential Art",
+  "productInfo": {
+    "UPC": "85b2176b3b194030",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£47.82",
+    "Price (incl. tax)": "£47.82",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "It’s Robins vs. cops! Robins vs. Robins! Robins vs. Batman! Robins vs. the Court of Owls‽Collecting: Robin War 1-2, Grayson 15, Detective Comics 47, We Are Robin... 7, Robin: Son of Batman 7, Gotham Academy 13, Red Hood/Arsenal 7, & Teen Titans 15",
+  "scrapedAt": "2025-06-19T02:39:19.127Z"
+}

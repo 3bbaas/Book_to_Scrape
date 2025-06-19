@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/39/c7/39c7bebcde5d9643ede71ac8ee87ee69.jpg",
+  "title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+  "price": "£32.00",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "15",
+    "availability": "In stock (15 available)"
+  },
+  "rate": "Three",
+  "category": "Default",
+  "productInfo": {
+    "UPC": "efc3768127714ec3",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£32.00",
+    "Price (incl. tax)": "£32.00",
+    "Tax": "£0.00",
+    "Availability": "In stock (15 available)",
+    "Number of reviews": "0"
+  },
+  "description": "No description available",
+  "scrapedAt": "2025-06-19T02:36:11.942Z"
+}

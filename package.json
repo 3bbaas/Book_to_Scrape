@@ -1,0 +1,21 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "Web scraping project using Puppeteer",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node index.js",
+    "scrape:debug": "node --inspect index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cheerio": "^1.1.0",
+    "ora": "^8.2.0",
+    "puppeteer": "^24.10.2"
+  }
+}

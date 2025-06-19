@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/b1/e6/b1e6c747381261cd6e60ac9d350c4bab.jpg",
+  "title": "The Long Haul (Diary of a Wimpy Kid #9)",
+  "price": "£44.07",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "One",
+  "category": "Humor",
+  "productInfo": {
+    "UPC": "f21effc079a2b38a",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£44.07",
+    "Price (incl. tax)": "£44.07",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Greg Heffley and his family hit the road in author-illustrator Jeff Kinney's latest installment of the phenomenally bestselling Diary of a Wimpy Kid series.",
+  "scrapedAt": "2025-06-19T02:38:33.323Z"
+}

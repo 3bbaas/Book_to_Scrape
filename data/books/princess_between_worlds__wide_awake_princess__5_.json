@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/db/01/db01b38d3200a5faff4ead42791416e4.jpg",
+  "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+  "price": "£13.34",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "16",
+    "availability": "In stock (16 available)"
+  },
+  "rate": "Five",
+  "category": "Fantasy",
+  "productInfo": {
+    "UPC": "0e691eda369f4e09",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£13.34",
+    "Price (incl. tax)": "£13.34",
+    "Tax": "£0.00",
+    "Availability": "In stock (16 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Just as Annie and Liam are busy making plans to travel the world, a witch shows up and gives them a collection of postcards from the Magic Marketplace. Each postcard gives Annie and Liam the opportunity to travel to exotic lands and far-flung kingdoms. What the witch doesn't give them are directions on how to safely return.",
+  "scrapedAt": "2025-06-19T02:33:56.733Z"
+}

@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/30/51/30512adbb6cba367d3f48e09a888da3c.jpg",
+  "title": "Amatus",
+  "price": "£50.54",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "15",
+    "availability": "In stock (15 available)"
+  },
+  "rate": "Five",
+  "category": "Default",
+  "productInfo": {
+    "UPC": "ffd54178acc9a6a5",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£50.54",
+    "Price (incl. tax)": "£50.54",
+    "Tax": "£0.00",
+    "Availability": "In stock (15 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Crispian, who has lived in a city of darkness all his life, must make a choice: remain safe in his home, but forever wonder what the mysterious light on the horizon could be--or trust a young woman to guide him to a wonderful realm he's never seen, and risk being deceived and led to a terrible death.",
+  "scrapedAt": "2025-06-19T02:37:41.794Z"
+}

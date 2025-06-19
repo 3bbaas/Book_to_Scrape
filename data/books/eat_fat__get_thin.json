@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/a7/6b/a76b04d5de0b2f8f038c9ac27f4d2a42.jpg",
+  "title": "Eat Fat, Get Thin",
+  "price": "£54.07",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Two",
+  "category": "Health",
+  "productInfo": {
+    "UPC": "047dfa57ba0bf638",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£54.07",
+    "Price (incl. tax)": "£54.07",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Originally released by Hachettee Audio A2015.",
+  "scrapedAt": "2025-06-19T02:40:31.065Z"
+}

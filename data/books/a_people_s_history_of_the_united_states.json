@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/bd/93/bd930adc47ee0dc240f8134f70f431ad.jpg",
+  "title": "A People's History of the United States",
+  "price": "£40.79",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Two",
+  "category": "Add a comment",
+  "productInfo": {
+    "UPC": "1ad06aed9349af46",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£40.79",
+    "Price (incl. tax)": "£40.79",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Known for its lively, clear prose as well as its scholarly research, A People's History of the United States is the only volume to tell America's story from the point of view of - and in the words of - America's women, factory workers, African Americans, Native Americans, working poor, and immigrant laborers.",
+  "scrapedAt": "2025-06-19T02:41:29.330Z"
+}

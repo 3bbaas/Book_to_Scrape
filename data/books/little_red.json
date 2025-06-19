@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/63/6b/636b836f5c3d67b9cda1948f5ca08694.jpg",
+  "title": "Little Red",
+  "price": "£13.47",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "15",
+    "availability": "In stock (15 available)"
+  },
+  "rate": "Three",
+  "category": "Childrens",
+  "productInfo": {
+    "UPC": "4aa03792b50f0b22",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£13.47",
+    "Price (incl. tax)": "£13.47",
+    "Tax": "£0.00",
+    "Availability": "In stock (15 available)",
+    "Number of reviews": "0"
+  },
+  "description": "On her way to Grandmas house, Little Red Riding Hood meets a wolf. Now, that might scare some little girlsbut not this little girl! She knows just what the wolf is up to, and shes not going to let him get away with it. In this updated fairy tale with a mischievous twist, talented newcomer Bethan Woollvin uses sly humor, striking visuals, and a dark irreverence to turn a fa On her way to Grandmas house, Little Red Riding Hood meets a wolf. Now, that might scare some little girlsbut not this little girl! She knows just what the wolf is up to, and shes not going to let him get away with it. In this updated fairy tale with a mischievous twist, talented newcomer Bethan Woollvin uses sly humor, striking visuals, and a dark irreverence to turn a familiar tale on its head. ...more",
+  "scrapedAt": "2025-06-19T02:36:50.942Z"
+}

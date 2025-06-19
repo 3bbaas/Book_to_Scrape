@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/60/3c/603c8f3dd299efe67616a53e5bfb1d03.jpg",
+  "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+  "price": "£51.04",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "16",
+    "availability": "In stock (16 available)"
+  },
+  "rate": "Two",
+  "category": "Sequential Art",
+  "productInfo": {
+    "UPC": "53a3d11bb568cc8b",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£51.04",
+    "Price (incl. tax)": "£51.04",
+    "Tax": "£0.00",
+    "Availability": "In stock (16 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Multiple storylines collide in this cosmos-spanning new volume. While Gwendolyn and Lying Cat risk everything to find a cure for The Will, Marko makes an uneasy alliance with Prince Robot IV to find their missing children, who are trapped on a strange world with terrifying new enemies. Collects Saga #25-30.",
+  "scrapedAt": "2025-06-19T02:33:48.787Z"
+}

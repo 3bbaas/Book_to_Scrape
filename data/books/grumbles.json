@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/20/78/207840aea0c8e2be66d998b80c6a59d3.jpg",
+  "title": "Grumbles",
+  "price": "£22.16",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "15",
+    "availability": "In stock (15 available)"
+  },
+  "rate": "Two",
+  "category": "Default",
+  "productInfo": {
+    "UPC": "d163dd6c352fbcd2",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£22.16",
+    "Price (incl. tax)": "£22.16",
+    "Tax": "£0.00",
+    "Availability": "In stock (15 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Grumbles is a little Nid that goes on her first day to school and has to answer the question of what she wants to be when she grows up. First Time Reader BookWritten and Illustrated by Sondra Faye",
+  "scrapedAt": "2025-06-19T02:36:59.307Z"
+}

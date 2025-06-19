@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/b1/4b/b14be641ab97a330891455a769d52fd3.jpg",
+  "title": "Penny Maybe",
+  "price": "£33.29",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "18",
+    "availability": "In stock (18 available)"
+  },
+  "rate": "Three",
+  "category": "Default",
+  "productInfo": {
+    "UPC": "668fe56b17cfcd4f",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£33.29",
+    "Price (incl. tax)": "£33.29",
+    "Tax": "£0.00",
+    "Availability": "In stock (18 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Sent to yet another foster family, Penny decides that the way to claim a sense of self is to swim Lake Ontario. Although this seems impossible, she finds the courage to ask her physics teacher to be her coach, and wins the support of her new foster mother.",
+  "scrapedAt": "2025-06-19T02:56:48.743Z"
+}

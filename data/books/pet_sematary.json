@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/99/ef/99ef2f3987ee016bdd120a4579ef98f5.jpg",
+  "title": "Pet Sematary",
+  "price": "£10.56",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Three",
+  "category": "Horror",
+  "productInfo": {
+    "UPC": "af58a74e4b2a23a0",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£10.56",
+    "Price (incl. tax)": "£10.56",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Sometimes dead is better....When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son -- and now an idyllic home. As a family, they've got it all...right down to the friendly cat.But the nearby woods hide a blood-chilling truth -- more terrifying than dea Sometimes dead is better....When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son -- and now an idyllic home. As a family, they've got it all...right down to the friendly cat.But the nearby woods hide a blood-chilling truth -- more terrifying than death itself...and hideously more powerful. ...more",
+  "scrapedAt": "2025-06-19T02:39:25.843Z"
+}

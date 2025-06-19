@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/34/1e/341e9af2106811a4ca8e56ce92762580.jpg",
+  "title": "Luis Paints the World",
+  "price": "£53.95",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Three",
+  "category": "Childrens",
+  "productInfo": {
+    "UPC": "5b43cae640f2338a",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£53.95",
+    "Price (incl. tax)": "£53.95",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Luis wishes Nico wasn't leaving for the Army. To show Nico he doesn't need to go, Luis begins a mural on the alleyway wall. Their house, the river, the Parque de las Ardillas—it's the world, all right there. Won't Nico miss Mami's sweet flan? What about their baseball games in the street? But as Luis awaits his brother's return from duty, his own world expands as well, thr Luis wishes Nico wasn't leaving for the Army. To show Nico he doesn't need to go, Luis begins a mural on the alleyway wall. Their house, the river, the Parque de las Ardillas—it's the world, all right there. Won't Nico miss Mami's sweet flan? What about their baseball games in the street? But as Luis awaits his brother's return from duty, his own world expands as well, through swooping paint and the help of their bustling Dominican neighborhood. ...more",
+  "scrapedAt": "2025-06-19T02:39:47.021Z"
+}

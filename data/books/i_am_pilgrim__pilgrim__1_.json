@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/8d/a3/8da36f821f35b795a3a420c84ca9737e.jpg",
+  "title": "I Am Pilgrim (Pilgrim #1)",
+  "price": "£10.60",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Four",
+  "category": "Fiction",
+  "productInfo": {
+    "UPC": "aeff7b87a8e83ebb",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£10.60",
+    "Price (incl. tax)": "£10.60",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "A breakneck race against time...and an implacable enemy.An anonymous young woman murdered in a run-down hotel, all identifying characteristics dissolved by acid. A father publicly beheaded in the blistering heat of a Saudi Arabian public square. A notorious Syrian biotech expert found eyeless in a Damascus junkyard. Smoldering human remains on a remote mountainside in Afgh A breakneck race against time...and an implacable enemy.An anonymous young woman murdered in a run-down hotel, all identifying characteristics dissolved by acid. A father publicly beheaded in the blistering heat of a Saudi Arabian public square. A notorious Syrian biotech expert found eyeless in a Damascus junkyard. Smoldering human remains on a remote mountainside in Afghanistan. A flawless plot to commit an appalling crime against humanity. One path links them all, and only one man can make the journey.Pilgrim. ...more",
+  "scrapedAt": "2025-06-19T02:40:04.985Z"
+}

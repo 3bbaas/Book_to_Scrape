@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/ac/07/ac07aa5cfd42e6192bb801a749263bba.jpg",
+  "title": "Through the Woods",
+  "price": "£25.38",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Two",
+  "category": "Sequential Art",
+  "productInfo": {
+    "UPC": "6e44bcbeac7f4360",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£25.38",
+    "Price (incl. tax)": "£25.38",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "'It came from the woods. Most strange things do.'Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.Come take a walk in the woods and see what awaits you there...",
+  "scrapedAt": "2025-06-19T02:38:08.010Z"
+}

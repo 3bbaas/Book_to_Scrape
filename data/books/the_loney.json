@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/84/cc/84cc7f93a8c6c766a6297a23227e68e8.jpg",
+  "title": "The Loney",
+  "price": "£23.40",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "One",
+  "category": "Horror",
+  "productInfo": {
+    "UPC": "2d88a31f325dfd3b",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£23.40",
+    "Price (incl. tax)": "£23.40",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "If it had another name, I never knew, but the locals called it the Loney - that strange nowhere between the Wyre and the Lune where Hanny and I went every Easter time with Mummer, Farther, Mr and Mrs Belderboss and Father Wilfred, the parish priest.It was impossible to truly know the place. It changed with each influx and retreat, and the neap tides would reveal the skelet If it had another name, I never knew, but the locals called it the Loney - that strange nowhere between the Wyre and the Lune where Hanny and I went every Easter time with Mummer, Farther, Mr and Mrs Belderboss and Father Wilfred, the parish priest.It was impossible to truly know the place. It changed with each influx and retreat, and the neap tides would reveal the skeletons of those who thought they could escape its insidious currents. No one ever went near the water. No one apart from us, that is.I suppose I always knew that what happened there wouldn't stay hidden for ever, no matter how much I wanted it to. No matter how hard I tried to forget... ...more",
+  "scrapedAt": "2025-06-19T02:38:34.999Z"
+}

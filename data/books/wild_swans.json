@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/ad/42/ad42a85570a887faf1b9e12715cf59bf.jpg",
+  "title": "Wild Swans",
+  "price": "£14.36",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Two",
+  "category": "Young Adult",
+  "productInfo": {
+    "UPC": "3fb15ace50d6142b",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£14.36",
+    "Price (incl. tax)": "£14.36",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "The summer before Ivy’s senior year is going to be golden; all bonfires, barbeques, and spending time with her best friends. For once, she will just get to be. No summer classes, none of Granddad’s intense expectations to live up to the family name. For generations, the Milbourn women have lead extraordinary lives—and died young and tragically. Granddad calls it a legacy, The summer before Ivy’s senior year is going to be golden; all bonfires, barbeques, and spending time with her best friends. For once, she will just get to be. No summer classes, none of Granddad’s intense expectations to live up to the family name. For generations, the Milbourn women have lead extraordinary lives—and died young and tragically. Granddad calls it a legacy, but Ivy considers it a curse. Why else would her mother have run off and abandoned her as a child?But when her mother unexpectedly returns home with two young daughters in tow, all of the stories Ivy wove to protect her heart start to unravel. The very people she once trusted now speak in lies. And all of Ivy’s ambition and determination cannot defend her against the secrets of the Milbourn past…. ...more",
+  "scrapedAt": "2025-06-19T02:37:49.465Z"
+}

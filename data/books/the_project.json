@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/4c/57/4c57c192057269132623f9c6b3f69559.jpg",
+  "title": "The Project",
+  "price": "£10.65",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "15",
+    "availability": "In stock (15 available)"
+  },
+  "rate": "One",
+  "category": "Science Fiction",
+  "productInfo": {
+    "UPC": "790ef197c8f236f5",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£10.65",
+    "Price (incl. tax)": "£10.65",
+    "Tax": "£0.00",
+    "Availability": "In stock (15 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Welcome to Adrianna, a new country isolated for years and shrouded in mystery. It’s home to the Leafers, an assembly of the most intelligent minds in the world. When Leafer President John Greenleaf opens Adrianna’s doors for the filming of a documentary, the young country’s secrets will be exposed changing the world forever. Can the Leafers really cure cancer, diabetes and Welcome to Adrianna, a new country isolated for years and shrouded in mystery. It’s home to the Leafers, an assembly of the most intelligent minds in the world. When Leafer President John Greenleaf opens Adrianna’s doors for the filming of a documentary, the young country’s secrets will be exposed changing the world forever. Can the Leafers really cure cancer, diabetes and heart disease with a miraculous new plant? Can they provide free food and free wireless electricity to the entire planet without pollution? Adrianna’s technology guarantees to cause a complete collapse of the global economy. But will the rich and powerful allow it? Wars will be fought. Economies will collapse. The true origins of human life on Earth will be revealed. The project must be completed. ...more",
+  "scrapedAt": "2025-06-19T02:35:44.492Z"
+}

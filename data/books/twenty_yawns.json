@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/40/d7/40d7f9433c2f23370659c925a45fdcad.jpg",
+  "title": "Twenty Yawns",
+  "price": "£22.08",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Two",
+  "category": "Childrens",
+  "productInfo": {
+    "UPC": "1d6443ffba9dfd80",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£22.08",
+    "Price (incl. tax)": "£22.08",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "Featuring lyrical text and beautiful illustrations, this bedtime tale from Pulitzer Prize winner Jane Smiley and Caldecott Honor recipient Lauren Castillo evokes the splashy fun of the beach and the quietude of a moonlit night, with twenty yawns sprinkled in for children to discover and count.As her mom reads a bedtime story, Lucy drifts off. But later, she awakens in a da Featuring lyrical text and beautiful illustrations, this bedtime tale from Pulitzer Prize winner Jane Smiley and Caldecott Honor recipient Lauren Castillo evokes the splashy fun of the beach and the quietude of a moonlit night, with twenty yawns sprinkled in for children to discover and count.As her mom reads a bedtime story, Lucy drifts off. But later, she awakens in a dark, still room, and everything looks mysterious. How will she ever get back to sleep? ...more",
+  "scrapedAt": "2025-06-19T02:38:06.346Z"
+}

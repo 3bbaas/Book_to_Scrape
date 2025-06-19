@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/d6/9b/d69b7020c4210e12882ffca0428919a2.jpg",
+  "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+  "price": "£19.92",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "16",
+    "availability": "In stock (16 available)"
+  },
+  "rate": "Two",
+  "category": "Sequential Art",
+  "productInfo": {
+    "UPC": "57e5a4d515c8ce44",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£19.92",
+    "Price (incl. tax)": "£19.92",
+    "Tax": "£0.00",
+    "Availability": "In stock (16 available)",
+    "Number of reviews": "0"
+  },
+  "description": "This New York Times Bestselling series continues with Jo, April, Mal, Molly, and Ripley as they take on everything that goes bump in the night. From scary stories to magical portals that lead to a land untouched by time, it's definitely not your average summer. (Lumberjanes #9-12)",
+  "scrapedAt": "2025-06-19T02:34:20.450Z"
+}

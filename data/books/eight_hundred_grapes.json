@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/5b/34/5b34d6d54467af2d5e44a5f91031adf2.jpg",
+  "title": "Eight Hundred Grapes",
+  "price": "£14.39",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Four",
+  "category": "Fiction",
+  "productInfo": {
+    "UPC": "1d6dd0c87d90fe92",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£14.39",
+    "Price (incl. tax)": "£14.39",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "There are secrets you share, and secrets you hide…Growing up on her family’s Sonoma vineyard, Georgia Ford learned some important secrets. The secret number of grapes it takes to make a bottle of wine: eight hundred. The secret ingredient in her mother’s lasagna: chocolate. The secret behind ending a fight: hold hands.But just a week before her wedding, thirty-year-old Geo There are secrets you share, and secrets you hide…Growing up on her family’s Sonoma vineyard, Georgia Ford learned some important secrets. The secret number of grapes it takes to make a bottle of wine: eight hundred. The secret ingredient in her mother’s lasagna: chocolate. The secret behind ending a fight: hold hands.But just a week before her wedding, thirty-year-old Georgia discovers her beloved fiancé has been keeping a secret so explosive, it will change their lives forever.Georgia does what she’s always done: she returns to the family vineyard, expecting the comfort of her long-married parents, and her brothers, and everything familiar. But it turns out her fiancé is not the only one who’s been keeping secrets… ...more",
+  "scrapedAt": "2025-06-19T02:40:27.727Z"
+}

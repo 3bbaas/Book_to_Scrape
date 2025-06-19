@@ -1,0 +1,23 @@
+{
+  "thumbnail": "https://books.toscrape.com/media/cache/8e/dc/8edc314a67ed5ddad7bd0a2f30ad3238.jpg",
+  "title": "This Is Where It Ends",
+  "price": "£27.12",
+  "stockInfo": {
+    "inStock": true,
+    "quantity": "14",
+    "availability": "In stock (14 available)"
+  },
+  "rate": "Two",
+  "category": "Young Adult",
+  "productInfo": {
+    "UPC": "f0f38174a7e689a3",
+    "Product Type": "Books",
+    "Price (excl. tax)": "£27.12",
+    "Price (incl. tax)": "£27.12",
+    "Tax": "£0.00",
+    "Availability": "In stock (14 available)",
+    "Number of reviews": "0"
+  },
+  "description": "10:00 a.m. The principal of Opportunity High School finishes her speech, welcoming the entire student body to a new semester and encouraging them to excel and achieve.10:02 a.m. The students get up to leave the auditorium for their next class.10:03 a.m. The auditorium doors won't open.10:05 a.m. Someone starts shooting.Told from four different perspectives over the span of 10:00 a.m. The principal of Opportunity High School finishes her speech, welcoming the entire student body to a new semester and encouraging them to excel and achieve.10:02 a.m. The students get up to leave the auditorium for their next class.10:03 a.m. The auditorium doors won't open.10:05 a.m. Someone starts shooting.Told from four different perspectives over the span of fifty-four harrowing minutes, terror reigns as one student’s calculated revenge turns into the ultimate game of survival. ...more",
+  "scrapedAt": "2025-06-19T02:38:09.689Z"
+}
